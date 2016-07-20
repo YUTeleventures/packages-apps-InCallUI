@@ -22,10 +22,10 @@
          the call info area. -->
     <dimen name="call_banner_height">122dp</dimen>
     <!-- Text size for the name in the call info. -->
-    <dimen name="call_status_text_size">22sp</dimen>
-    <dimen name="call_status_text_min_size">18sp</dimen>
-    <dimen name="call_name_text_size">45dp</dimen>
-    <dimen name="call_name_text_min_size">34sp</dimen>
+    <dimen name="call_status_text_size">17sp</dimen>
+    <dimen name="call_status_text_min_size">13sp</dimen>
+    <dimen name="call_name_text_size">40dp</dimen>
+    <dimen name="call_name_text_min_size">29sp</dimen>
     <dimen name="call_label_text_size">18sp</dimen>
 
     <!-- The InCallUI dialpad will sometimes want digits sizes that are different from dialer. -->
